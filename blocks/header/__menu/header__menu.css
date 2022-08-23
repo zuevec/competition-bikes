@@ -1,0 +1,7 @@
+.header__menu {
+  margin: 0;
+  display: flex;
+  list-style: none;
+  padding-right: 120px;
+  justify-content: right;
+}
