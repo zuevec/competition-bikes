@@ -1,0 +1,11 @@
+.slider__control_prev {
+  width: 50px;
+  height: 50px;
+  background-color: #EBEBEB;
+  border-radius: 50px;
+  border: 0;
+  background-image: url(../../../../images/slider/slider__control_prev.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}
