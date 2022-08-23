@@ -7,3 +7,12 @@
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__list-item/header__list-item.css);
 @import url(../blocks/header/__link/header__link.css);
+
+/*types*/
+@import url(../blocks/types/types.css);
+@import url(../blocks/types/__text/types__text.css);
+@import url(../blocks/types/__text-title/types__text-title.css);
+@import url(../blocks/types/__text-paragraph/types__text-paragraph.css);
+@import url(../blocks/types/__text-button/types__text-button.css);
+@import url(../blocks/types/__text-description/types__text-description.css);
+@import url(../blocks/types/__image/types__image.css);

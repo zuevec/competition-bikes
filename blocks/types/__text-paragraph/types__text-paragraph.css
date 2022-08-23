@@ -1,0 +1,12 @@
+.types__text-paragraph {
+  margin: 0;
+  margin-top: 50px;
+  max-width: 460px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 156%;
+  color: #222222;
+  opacity: 0.7;
+}

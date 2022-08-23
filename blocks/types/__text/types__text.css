@@ -1,0 +1,4 @@
+.types__text {
+ max-width: calc(1440px - 610px);
+ margin-left: 120px;
+}

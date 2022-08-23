@@ -1,0 +1,12 @@
+.types__text-title {
+  margin: 0;
+  margin-top: 80px;
+  font-size: 55px;
+  font-family: 'Inter', arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 109%;
+  letter-spacing: -0.5px;
+  color: #151515;
+  max-width: 320px;
+}
