@@ -1,0 +1,7 @@
+.types__description-container {
+  margin-top: 167px;
+  display: flex;
+  max-width: calc(194px + 30px + 132px);
+  justify-content: space-between;
+  align-items: center;
+}
